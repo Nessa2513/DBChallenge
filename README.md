@@ -12,6 +12,12 @@ This project is a demo of how to implement JPA using Hibernate in InteliJ IDEA w
    (use foreign key), to show the studies from an employee. Take a screenshot from the
    new Entity-Relationship Diagram.
 
+###### Diagram entity-relation ship 
+![Entity-Relationship Diagram](readmeImages/entity-ralationship-diagram.png)
+
+##### Diagram entity-relationship connect to columns
+![Diagrama Entidad-Relacion connectToColumns](External-files-DBC/Diagrama-Entidad-Relacion-connectToColumns.png)
+
 ####
 2. Use the Join Clause to get the data from the tables institution and employee
 ####
