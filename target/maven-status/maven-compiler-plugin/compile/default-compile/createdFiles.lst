@@ -1,0 +1,4 @@
+utils\crud\EmployeeCrud.class
+queries\EmployeeQuery.class
+entities\Employee.class
+utils\JpaManager.class
